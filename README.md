@@ -6,4 +6,4 @@ This website is build upon the code from https://github.com/andrew-houghton/moon
 
 More information about this project can be found at https://github.com/junranshi/capstone_moonboard.
 
-To run the website locally execute `python -m SimpleHTTPServer` (Python2) or `python3 -m http.server` (Python3). Website will be hosted on http://localhost:8000.
+To view the website, go to https://junranshi.github.io/moonboard_website/. To run the website locally execute `python -m SimpleHTTPServer` (Python2) or `python3 -m http.server` (Python3). Website will be hosted on http://localhost:8000.
